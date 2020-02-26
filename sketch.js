@@ -166,7 +166,7 @@ function gotPosition(position) {
 
   //Styles for GPS marker, making use of custom image
   var feetIcon = L.icon({
-    iconUrl: 'footprints-01.png',
+    iconUrl: 'images/footprints-01.png',
     iconSize: [35, 36.43], // size of the icon
     iconAnchor: [17.5, 18.2], // center of the icon which will correspond to marker's location
     popupAnchor: [-3, -76] // point from which the popup should open relative to the iconAnchor
