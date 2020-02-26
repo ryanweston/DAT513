@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "clue": "Brick by brick I was moved,\n Eddystone my old name,\n I prevented ships being slewed,\n the face of Plymouth I now lay claim.",
+      "properties": {},
+      "target": [
+        50.36442877896962,
+        -4.141899347305298  
+        ],
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.14483904838562,
+              50.364387715261245
+            ],
+            [
+              -4.140150547027588,
+              50.36444931081045
+            ],
+            [
+              -4.140257835388184,
+              50.36593442374034
+            ],
+            [
+              -4.143251180648803,
+              50.3664340134958
+            ],
+            [
+              -4.14483904838562,
+              50.364387715261245
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
