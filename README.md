@@ -6,7 +6,7 @@ GPS map based application based on pyscho-geographical principles.
 
 Project site: <https://projects.ryanweston.me/Mappa.Ply/>
 
-**Want to see more of the project?** Mappa.Ply currently reads data manually inputted into a JSON file, meaning the application will only work in Plymouth. If you want to see it in action, I have a rough trailer that's a currently a little too embarassing to put out in public. However, I'm happy to share the link with anyone who's interested.
+**Want to see more of the project?** Mappa.Ply currently reads data manually inputted into a JSON file, meaning the application will only work in Plymouth. If you want to see it in action, I have a rough trailer that's currently a little too embarassing to put out in public. However, I'm happy to share the link with anyone who's interested.
 
 
 **Inspiration:** The work is heavily inspired by Ian Sinclair's commentary on Susan Phillipz's Tate exhibit. His commentary here helps to encapsulate the atmosphere we attempted to recreate within the project.
