@@ -39,6 +39,7 @@ The project has a cool concept that I believe can translate well into a public  
 - 🎨 Improve the overall UI/UX of the application, adding an intro instruction page.
 - 📱 Work on zone sizing tweaking to encourage more exploration time.
 - ⏳ Add a loading screen.
+- 📁 Clean up file structure.
 
 ### Instructions
 ----
